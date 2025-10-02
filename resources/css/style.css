@@ -15,3 +15,10 @@ a {
   font-size: 16px;
   text-decoration: none;
 }
+
+footer {
+  text-align: right;
+  color: gray;
+  font-size: 12px;
+  margin: 20px;
+}
